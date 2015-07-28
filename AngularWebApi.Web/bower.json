@@ -1,0 +1,29 @@
+{
+  "name": "AngularWebApi.Web",
+  "version": "0.1.0",
+  "authors": [
+    "Darin Hoover <darin@codenet.io>"
+  ],
+  "description": "Angular Website Boilerplate",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "http://codenet.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-loading-bar": "~0.8.0",
+    "bootstrap": "~3.3.5",
+    "angular-local-storage": "~0.2.2",
+    "angular-route": "~1.4.3"
+  }
+}
